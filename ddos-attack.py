@@ -24,7 +24,7 @@ os.system("figlet DDos Attack")
 
 
 
-print
+
 ip = raw_input("IP Target : ")
 port = input("Port       : ")
 
